@@ -40,7 +40,9 @@
     "creationTimestamp": 1639476089521,
     "jwtSecretKey": "MjVlMjczYzJjOWY4MWZmZDZjZWYzOTRkOTA2MTJjNzhjYzA3MzRhZWE0ZTM4YWRlNDA3MWY5ZjkyZDZkZDA5YjE0ZGNjOTBlN2FlMDEyZWQ5NzBlNjYyMWZlOGYzY2M2NWRjZmU1MjdhOTNlY2Q2YzU5YjJhODQ2MDQ1YWQ3YWI=",
     "reactive": false,
-    "enableGradleEnterprise": false
+    "enableGradleEnterprise": false,
+    "entities": ["Region", "Country"],
+    "lastLiquibaseTimestamp": 1639477044000
   },
   "git-provider": "GitHub",
   "git-company": "neerajcharokar",
